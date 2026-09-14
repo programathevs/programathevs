@@ -17,7 +17,7 @@ Olá! Sou **Matheus Luiz**, desenvolvedor Full Stack e instrutor de programaçã
 <br>
 
 <div align="center">
-  <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/c9/PhpStorm_Icon.svg/500px-PhpStorm_Icon.svg.png" width="60" height="55" alt="PHPStorm"/>
+  <img src="https://techstack-generator.vercel.app/docker-icon.svg" width="60" height="55" alt="PHPStorm"/>
   <br>
   
   <img src="https://raw.githubusercontent.com/Zenfection/Image/master/2021/06/08-15-55-13-06-00-18-00-html5.gif" width="60" height="55" alt="HTML5"/>
