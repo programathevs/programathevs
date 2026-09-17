@@ -29,10 +29,10 @@ Olá! Sou **Matheus Luiz**, desenvolvedor Full Stack e instrutor de programaçã
   <img src="https://skillicons.dev/icons?i=js" alt="JavaScript"/>
   <img src="https://skillicons.dev/icons?i=ts" alt="TypeScript"/>
   <img src="https://skillicons.dev/icons?i=docker" alt="Docker"/>
-  
-  <img src="https://skillicons.dev/icons?i=laravel" alt="Laravel"/>
+  <img src="https://skillicons.dev/icons?i=kubernetes" alt="Kubernetes"/>
  
   <br>
+  <img src="https://skillicons.dev/icons?i=laravel" alt="Laravel"/>
   <img src="https://skillicons.dev/icons?i=github" alt="GitHub"/>
   <img src="https://skillicons.dev/icons?i=php" alt="PHP"/>
   <img src="https://skillicons.dev/icons?i=react" alt="React"/>
