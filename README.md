@@ -20,10 +20,10 @@ Olá! Sou **Matheus Luiz**, desenvolvedor Full Stack e instrutor de programaçã
   
   <img src="https://skillicons.dev/icons?i=git" alt="Git"/>
   <br>
-  
-  <img src="https://skillicons.dev/icons?i=html" alt="HTML"/>
-  <img src="https://skillicons.dev/icons?i=css" alt="CSS"/>
-  <img src="https://skillicons.dev/icons?i=postman" alt="Postman"/>
+
+  <img src="https://skillicons.dev/icons?i=androidstudio" alt="Android Studio"/>
+  <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL"/>
+  <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL"/>
  
   <br>
   <img src="https://skillicons.dev/icons?i=js" alt="JavaScript"/>
@@ -39,9 +39,9 @@ Olá! Sou **Matheus Luiz**, desenvolvedor Full Stack e instrutor de programaçã
   <img src="https://skillicons.dev/icons?i=nodejs" alt="Node.js"/>
   
   <br>
-  <img src="https://skillicons.dev/icons?i=androidstudio" alt="Android Studio"/>
-  <img src="https://skillicons.dev/icons?i=mysql" alt="MySQL"/>
-  <img src="https://skillicons.dev/icons?i=postgres" alt="PostgreSQL"/>
+  <img src="https://skillicons.dev/icons?i=html" alt="HTML"/>
+  <img src="https://skillicons.dev/icons?i=css" alt="CSS"/>
+  <img src="https://skillicons.dev/icons?i=postman" alt="Postman"/>
 
   <br>
   <img src="https://skillicons.dev/icons?i=bash" alt="Bash"/>
